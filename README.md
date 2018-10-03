@@ -35,3 +35,5 @@
  2. 키위 , 수박
  3. 만두국,  Burger
  4. 비 오는 날씨
+ 
+![README IMG](./Anu_uos/자기소개 마인드맵.jpg)
